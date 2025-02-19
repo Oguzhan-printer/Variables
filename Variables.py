@@ -5,7 +5,7 @@ age = int(input('enter your age:'))
 size = float(input('enter your size:'))
 student = bool(input('are you a student? (yes/no):'))
 
-print(f'my name is {name} my age is {age} my height is {size} finally yes I am a student  {student}')
+print(f'my name is {name} my age is {age} my height is {size} finally are you student?  {student}')
 
 
 #Task 2
